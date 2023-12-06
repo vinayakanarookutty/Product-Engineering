@@ -1,5 +1,33 @@
 Professional software development is a dynamic and ever-evolving field that encompasses the process of designing, creating, testing, deploying, and maintaining software systems. It plays a crucial role in shaping the modern technological landscape, enabling organizations to meet diverse needs and solve complex problems. As technology continues to advance, the demand for skilled software developers remains high, making it a rewarding and challenging career path.
 
+%%%%%%%%%%%%%%%
+
+Software is considered
+to be collection of
+executable programming
+code, associated libraries
+and documentations.
+
+%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%
+
+Software engineering is an
+engineering branch associated with
+development of software product
+using well-defined scientific principles,
+methods and procedures. The
+outcome of software engineering is an
+efficient and reliable software
+product.
+
+
+
+
+%%%%%%%%%%%%%%%%%
+
+
 In the realm of professional software development, individuals and teams collaborate to build applications, websites, and other software solutions that address specific user requirements or business objectives. This process typically follows a structured methodology, such as Agile or Scrum, which emphasizes iterative development, frequent collaboration, and adaptability to changing requirements.
 
 Key aspects of professional software development include:
